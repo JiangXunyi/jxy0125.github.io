@@ -16,23 +16,23 @@ Education
 
 Research experience
 ======
-* Summer 2021: Mobility of Researchers
-  * MVR
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Mobility of Researchers and Heirarchy of Research institutions
+  * Dataset: OpenAlex and ORCID
+  * My Work: Data Cleaning, Model construction 
+  * Supervisor: Professor Yifang Ma
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2022: North Canorlina, GEARS
+  * Psychometeric meta analysis
+  * My Work: Read literature, summarize previous research
+  * Supervisor: Professor Baisden
   
 Skills
 ======
-* Languages: Python, Java, SQL, Spark, Git
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Coding Languages: Python, Java, SQL, Spark, Git
+* Mathematical and Statistical Courses:
+  * Statistical Learning
+  * Mathematical Statistics
+  * Mathematical Analysis
 * Skill 3
 
 
